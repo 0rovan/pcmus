@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-PCMUS - GUI controls for CMUS writen in Python with Tkinter
-Copyright (C) 2014  Michael Orovan
+PCMUS - GUI controls for CMUS written in Python with Tkinter
+Copyright (C) 2014 0rovan
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
